@@ -1,0 +1,5 @@
+{
+  "name": "AceMind ",
+  "description": "Professional Texas Hold'em suite featuring Monte Carlo win simulations, EV-based AI, and detailed player profiling.",
+  "requestFramePermissions": []
+}
